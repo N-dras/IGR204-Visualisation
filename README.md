@@ -23,4 +23,4 @@ In this mini-project, we will be working with a data set of baby names in France
 
 Here is the general aspect of our dashboard : 
 
-![Alt text](https://github.com/N-dras/IGR204-Visualisation/blob/main/Images/Entire_viz.png)
+![img](https://github.com/N-dras/IGR204-Visualisation/blob/main/Images/Entire_viz.png)
