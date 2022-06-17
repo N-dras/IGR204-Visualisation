@@ -69,3 +69,8 @@ We can see that in general the gender of the names is quite balanced, with a maj
 
 ![image](https://github.com/N-dras/IGR204-Visualisation/blob/main/Images/3.1.png)
 ![image](https://github.com/N-dras/IGR204-Visualisation/blob/main/Images/3.2.png)
+
+This graph below shows us that the evolution of names according to gender is similar, it follows the same trend.
+
+![image](https://github.com/N-dras/IGR204-Visualisation/blob/main/Images/3.3.png)
+
