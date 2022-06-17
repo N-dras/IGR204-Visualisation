@@ -32,11 +32,21 @@ Taking the window 2000-2020, several names have become unpopular, the first name
 
 We can deduce that Marie remains a name very loved by the French, even if it tends to be replaced. 
 
-
 #### Part 2:
 - Is there a regional effect in the data? 
 - Are some names more popular in some regions? 
 - Are popular names generally popular across the whole country?
+
+While the first names Marie and Jean remain very popular in particular in Finistère, it is interesting to see that in Seine-saint-denis the Top 3 names are : 
+- Mohamed
+- Nicolas
+- Stephane
+History has something to do with it. Indeed, many Maghreb countries were colonized by the French. After the 2nd world war, there was a migration of the countries of the south towards the north and it is particular in the department of the seine-saint-denis that these people ce are installed. A wave of births followed, hence the name Mohamed became very popular.
+
+![image](https://github.com/N-dras/IGR204-Visualisation/blob/main/Images/Question_2.3.png)
+![image](https://github.com/N-dras/IGR204-Visualisation/blob/main/Images/Question_2.1.png)
+
+
 
 #### Part 3 (bonus):
 - Are there gender effects in the data? 
