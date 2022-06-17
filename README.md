@@ -10,7 +10,9 @@ Here is the general aspect of our dashboard :
 
 <img src="https://github.com/N-dras/IGR204-Visualisation/blob/main/Images/Entire_viz.png" width="1000" height="1000">
 
-#### Part 1:
+
+### Part 1:
+
 - How do baby names evolve over time?
 - Are there names that have consistently remained popular or unpopular? 
 - Are there some that have were suddenly or briefly popular or unpopular? 
@@ -32,7 +34,9 @@ Taking the window 2000-2020, several names have become unpopular, the first name
 
 We can deduce that Marie remains a name very loved by the French, even if it tends to be replaced. 
 
-#### Part 2:
+
+### Part 2:
+
 - Is there a regional effect in the data? 
 - Are some names more popular in some regions? 
 - Are popular names generally popular across the whole country?
@@ -61,7 +65,9 @@ It inherited the postal code "93", formerly assigned to the department of Consta
 
 The top 5 French departments with the largest areas show that the names Marie and Jean remain very popular. We can deduce that by taking this small sample of departments that the top 2 most popular names are found across the whole country.
 
-#### Part 3 (bonus):
+
+### Part 3 (bonus):
+
 - Are there gender effects in the data? 
 - Does popularity of names given to both sexes evolve consistently? (Note: this data set treats sex as binary; this is a simplification that carries into this assignment but does not generally hold.)
 
@@ -74,3 +80,9 @@ This graph below shows us that the evolution of names according to gender is sim
 
 ![image](https://github.com/N-dras/IGR204-Visualisation/blob/main/Images/3.3.png)
 
+Let's focus on the two major wars, the 1st and the 2nd World War (we place the time window between 1910 and 1950). We notice two distinct stages. Indeed, the wars had impacts on the births and we notice that the number of female names is higher than the male ones. The post-war periods show a will of the 
+
+French to repopulate the country (1919-1920 and 1945-1946).  
+During these two periods, there was an increase in births of nearly 60%. And it's after 1946 that the male names are well above the female ones.
+
+![image](https://github.com/N-dras/IGR204-Visualisation/blob/main/Images/3.4.png)
