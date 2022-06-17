@@ -8,7 +8,7 @@ In this mini-project, we will be working with a data set of baby names in France
 
 Here is the general aspect of our dashboard : 
 
-<img src="https://github.com/N-dras/IGR204-Visualisation/blob/main/Images/Entire_viz.png" width="1000" height="1000">
+![image](https://github.com/N-dras/IGR204-Visualisation/blob/main/Images/Entire_viz.png)
 
 #### Part 1:
 - How do baby names evolve over time?
