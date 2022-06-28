@@ -85,3 +85,14 @@ French to repopulate the country (1919-1920 and 1945-1946).
 During these two periods, there was an increase in births of nearly 60%. And it's after 1946 that the male names are well above the female ones.
 
 ![image](https://github.com/N-dras/IGR204-Visualisation/blob/main/Images/3.4.png)
+
+We also tried to work with Altair to find another visualisation. But before using Altair, we had to do some manipulations on the data set because there too much data for our laptops. Therefore, we reduced the size of the dataset by only keeping lines where names had been given to both genders. First we separated the Data Frame in 2, one for each gender. Then, we created a third DataFrame my merging the Male DataFrame and the Female DataFrame by chosing the feature "name" as the commun element. At the end, we managed to solve the big size issue by getting a DataFrame which contains data of people where their names had been given to both genders.
+
+With Altair, we build the following histogram which represents the evolution of names given to both genders, blue for Male and orange for female.
+
+![image](https://github.com/N-dras/IGR204-Visualisation/blob/main/Images/Altair_Question3.png)
+
+There are two things we discovered by studying this graph :
+- If a name can be given to both genders, it does not mean that there is an equal distribution between male nad female. For example, the name "Camille" is given to both genders, but it is more likely given to a girl then a boy. In the grap, we can see it by taking a look on the data from 1919 to 1950 : we can easily see that blue bars are higer than orange bars. It means that a lot of names, given to both genders, have been given way more to boys than to girls.
+
+- The second surprising discover can seen if we take a look on the recent years : it can clearly see that there are much few names given to boys and girls. Probably, because parents want original names ...
